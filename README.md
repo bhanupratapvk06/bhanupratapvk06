@@ -33,20 +33,58 @@
 
 ---
 
-## `$ whoami`
+## 👨‍💻 About Me
 
-```ts
-const bhanu = {
-  name        : "Bhanu Pratap Singh",
-  handle      : "bcodep06",
-  location    : "Greater Noida, India 🇮🇳",
-  education   : "B.Tech IT — Gautam Buddha University (2022–2026) · CGPA: 8.82",
-  role        : "Software Engineer · MERN Stack Developer · ML Practitioner",
-  currentFocus: ["Scalable backend systems", "Full-stack web apps", "ML & Kaggle competitions"],
-  openTo      : ["SWE Internships", "ML Internships", "Full-time Roles", "Open Source"],
-  contact     : "bhanupratapvk06@gmail.com",
-};
-```
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <h3>Bhanu Pratap Singh</h3>
+      <p>
+        Final-year <strong>B.Tech IT</strong> student at Gautam Buddha University with CGPA <strong>8.82 / 10</strong>.<br/><br/>
+        I build <strong>scalable backend systems</strong> and full-stack web applications using the MERN stack — with a strong focus on clean architecture, REST API design, and performance.<br/><br/>
+        Beyond web dev, I work on <strong>Machine Learning</strong> projects and actively compete on Kaggle. I've solved <strong>573+ LeetCode problems</strong> and earned the <strong>365 Days badge</strong> through consistent daily practice.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/📍_Location-Greater%20Noida%2C%20India-e8ff47?style=flat-square&labelColor=1a1a1a&color=e8ff47" />
+        <img src="https://img.shields.io/badge/🎓_CGPA-8.82%20%2F%2010.0-00f5c4?style=flat-square&labelColor=1a1a1a&color=00f5c4" />
+        <img src="https://img.shields.io/badge/📅_Batch-2022–2026-888898?style=flat-square&labelColor=1a1a1a&color=888898" />
+      </p>
+    </td>
+    <td width="45%" valign="top">
+      <br/>
+      <table>
+        <tr>
+          <td><b>🔭 Role</b></td>
+          <td>Software Engineer · MERN Stack Dev</td>
+        </tr>
+        <tr>
+          <td><b>🌱 Focus</b></td>
+          <td>Backend Systems · Full-stack Apps</td>
+        </tr>
+        <tr>
+          <td><b>🤖 Also into</b></td>
+          <td>Machine Learning · Kaggle</td>
+        </tr>
+        <tr>
+          <td><b>💡 DSA</b></td>
+          <td>573+ LeetCode · 365 Days Badge 🔥</td>
+        </tr>
+        <tr>
+          <td><b>🏅 Kaggle</b></td>
+          <td>Rank 6 / 88 · Rank 1096 / 3724</td>
+        </tr>
+        <tr>
+          <td><b>🤝 Open to</b></td>
+          <td>SWE & ML Internships · Full-time</td>
+        </tr>
+        <tr>
+          <td><b>📬 Contact</b></td>
+          <td><a href="mailto:bhanupratapvk06@gmail.com">bhanupratapvk06@gmail.com</a></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ---
 
