@@ -40,7 +40,7 @@
     <td width="55%" valign="top">
       <h3>Bhanu Pratap Singh</h3>
       <p>
-        Final-year <strong>B.Tech IT</strong> student at Gautam Buddha University with CGPA <strong>8.82 / 10</strong>.<br/><br/>
+        Final-year <strong>B.Tech IT</strong> student at Gautam Buddha University with CGPA <strong>8.98 / 10</strong>.<br/><br/>
         I build <strong>scalable backend systems</strong> and full-stack web applications using the MERN stack — with a strong focus on clean architecture, REST API design, and performance.<br/><br/>
         Beyond web dev, I work on <strong>Machine Learning</strong> projects and actively compete on Kaggle. I've solved <strong>573+ LeetCode problems</strong> and earned the <strong>365 Days badge</strong> through consistent daily practice.
       </p>
