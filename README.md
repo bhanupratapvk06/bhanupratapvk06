@@ -319,7 +319,7 @@
 ```
 Gautam Buddha University — Greater Noida, India
 B.Tech in Information Technology  ·  Aug 2022 – May 2026
-CGPA: 8.82 / 10.0
+CGPA: 8.98 / 10.0
 ```
 
 ---
